@@ -1,0 +1,16 @@
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Application\bin\Debug\net8.0\VictorVentral.Customers.Application.deps.json
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Application\bin\Debug\net8.0\VictorVentral.Customers.Application.dll
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Application\bin\Debug\net8.0\VictorVentral.Customers.Application.pdb
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Application\bin\Debug\net8.0\VictorVentral.Customers.Domain.dll
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Application\bin\Debug\net8.0\VictorVentral.Customers.Domain.pdb
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Application\obj\Debug\net8.0\VictorVentral.Customers.Application.csproj.AssemblyReference.cache
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Application\obj\Debug\net8.0\VictorVentral.Customers.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Application\obj\Debug\net8.0\VictorVentral.Customers.Application.AssemblyInfoInputs.cache
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Application\obj\Debug\net8.0\VictorVentral.Customers.Application.AssemblyInfo.cs
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Application\obj\Debug\net8.0\VictorVentral.Customers.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Application\obj\Debug\net8.0\VictorVentral.Customers.Application.sourcelink.json
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Application\obj\Debug\net8.0\VictorVentral.Customers.Application.csproj.CopyComplete
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Application\obj\Debug\net8.0\VictorVentral.Customers.Application.dll
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Application\obj\Debug\net8.0\refint\VictorVentral.Customers.Application.dll
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Application\obj\Debug\net8.0\VictorVentral.Customers.Application.pdb
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Application\obj\Debug\net8.0\ref\VictorVentral.Customers.Application.dll

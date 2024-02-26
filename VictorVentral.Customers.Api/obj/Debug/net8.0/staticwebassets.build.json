@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UsMMpNZInEOtFnfckgDzOED7cLdsX82EJtBw9ORjcXc=",
+  "Source": "VictorVentral.Customers.Api",
+  "BasePath": "_content/VictorVentral.Customers.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

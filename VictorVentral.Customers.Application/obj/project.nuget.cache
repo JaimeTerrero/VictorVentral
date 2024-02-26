@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bKwD4LJdbaFU4HV36KMjIS3rzXSoNrBenfuQa94z+KLKWO3lZUzI21OBsR4Yk8WtBX7+YJgEE/0+odeXWPC7PQ==",
+  "dgSpecHash": "iMBmgFwH9y0tC4lEG2edAI6zUKgtAtazucEkVEJ93btbJDTL7irJRfGhPsLtfiENHD6VUWn4Z34dfgbCIhgwdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jaime Terrero\\Desktop\\Microservices\\VictorVentral\\VictorVentral.Customers.Application\\VictorVentral.Customers.Application.csproj",
+  "projectFilePath": "C:\\Users\\Jaime Terrero\\Documents\\GitHub\\CustomerAPI\\VictorVentral.Customers.Application\\VictorVentral.Customers.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "VictorVentral.Customers.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/VictorVentral.Customers.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VictorVentral.Customers.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "VictorVentral.Customers.Domain/1.0.0": {
+      "type": "project",
+      "path": "../VictorVentral.Customers.Domain/VictorVentral.Customers.Domain.csproj",
+      "msbuildProject": "../VictorVentral.Customers.Domain/VictorVentral.Customers.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "VictorVentral.Customers.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Jaime Terrero\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jaime Terrero\\Desktop\\Microservices\\VictorVentral\\VictorVentral.Customers.Application\\VictorVentral.Customers.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Jaime Terrero\\Documents\\GitHub\\CustomerAPI\\VictorVentral.Customers.Application\\VictorVentral.Customers.Application.csproj",
       "projectName": "VictorVentral.Customers.Application",
-      "projectPath": "C:\\Users\\Jaime Terrero\\Desktop\\Microservices\\VictorVentral\\VictorVentral.Customers.Application\\VictorVentral.Customers.Application.csproj",
+      "projectPath": "C:\\Users\\Jaime Terrero\\Documents\\GitHub\\CustomerAPI\\VictorVentral.Customers.Application\\VictorVentral.Customers.Application.csproj",
       "packagesPath": "C:\\Users\\Jaime Terrero\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jaime Terrero\\Desktop\\Microservices\\VictorVentral\\VictorVentral.Customers.Application\\obj\\",
+      "outputPath": "C:\\Users\\Jaime Terrero\\Documents\\GitHub\\CustomerAPI\\VictorVentral.Customers.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jaime Terrero\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Jaime Terrero\\Documents\\GitHub\\CustomerAPI\\VictorVentral.Customers.Domain\\VictorVentral.Customers.Domain.csproj": {
+              "projectPath": "C:\\Users\\Jaime Terrero\\Documents\\GitHub\\CustomerAPI\\VictorVentral.Customers.Domain\\VictorVentral.Customers.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

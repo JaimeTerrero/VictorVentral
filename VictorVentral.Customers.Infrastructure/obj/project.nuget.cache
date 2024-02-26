@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "DOWyzF5p1M/v80hThcG1InCiR9+fM+RK2vlGZ3b5lP0SUElUPufQLQ+jwRgnOdI7m0UCNEscV1RK0QnIq/nkng==",
+  "dgSpecHash": "uZSkhND6VU9CC3L6Ye8vGrxNgdqShqEFGucHINOQ+hG/t+r9+7rO1usWVzgatsguobq6Pq7eZlOjUcSxsFuM7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jaime Terrero\\Desktop\\Microservices\\VictorVentral\\VictorVentral.Customers.Infrastructure\\VictorVentral.Customers.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Jaime Terrero\\Documents\\GitHub\\CustomerAPI\\VictorVentral.Customers.Infrastructure\\VictorVentral.Customers.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Jaime Terrero\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Jaime Terrero\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Jaime Terrero\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Jaime Terrero\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Jaime Terrero\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -13,7 +15,7 @@
     "C:\\Users\\Jaime Terrero\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.5.0\\microsoft.codeanalysis.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Jaime Terrero\\.nuget\\packages\\microsoft.codeanalysis.csharp.workspaces\\4.5.0\\microsoft.codeanalysis.csharp.workspaces.4.5.0.nupkg.sha512",
     "C:\\Users\\Jaime Terrero\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\4.5.0\\microsoft.codeanalysis.workspaces.common.4.5.0.nupkg.sha512",
-    "C:\\Users\\Jaime Terrero\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jaime Terrero\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Jaime Terrero\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.4\\microsoft.data.sqlclient.5.1.4.nupkg.sha512",
     "C:\\Users\\Jaime Terrero\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.1\\microsoft.data.sqlclient.sni.runtime.5.1.1.nupkg.sha512",
     "C:\\Users\\Jaime Terrero\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",

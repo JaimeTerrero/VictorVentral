@@ -1,0 +1,12 @@
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Domain\bin\Debug\net8.0\VictorVentral.Customers.Domain.deps.json
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Domain\bin\Debug\net8.0\VictorVentral.Customers.Domain.dll
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Domain\bin\Debug\net8.0\VictorVentral.Customers.Domain.pdb
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Domain\obj\Debug\net8.0\VictorVentral.Customers.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Domain\obj\Debug\net8.0\VictorVentral.Customers.Domain.AssemblyInfoInputs.cache
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Domain\obj\Debug\net8.0\VictorVentral.Customers.Domain.AssemblyInfo.cs
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Domain\obj\Debug\net8.0\VictorVentral.Customers.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Domain\obj\Debug\net8.0\VictorVentral.Customers.Domain.sourcelink.json
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Domain\obj\Debug\net8.0\VictorVentral.Customers.Domain.dll
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Domain\obj\Debug\net8.0\refint\VictorVentral.Customers.Domain.dll
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Domain\obj\Debug\net8.0\VictorVentral.Customers.Domain.pdb
+C:\Users\Jaime Terrero\Documents\GitHub\CustomerAPI\VictorVentral.Customers.Domain\obj\Debug\net8.0\ref\VictorVentral.Customers.Domain.dll
