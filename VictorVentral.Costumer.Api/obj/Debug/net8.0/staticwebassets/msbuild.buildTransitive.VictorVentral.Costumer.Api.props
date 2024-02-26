@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\VictorVentral.Costumer.Api.props" />
+</Project>

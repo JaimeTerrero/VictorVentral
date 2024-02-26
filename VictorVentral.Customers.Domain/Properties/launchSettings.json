@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "VictorVentral.Customers.Domain": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
