@@ -2,8 +2,9 @@
 using VictorVentral.Customers.Application.Customers.DTOs;
 using VictorVentral.Customers.Application.Customers.Interfaces;
 
-namespace VictorVentral.Customers.Api.Controllers
+namespace VictorVentral.Customers.Api.Controllers.Customers
 {
+    [Route("api/[controller]")]
     public class CustomerController : Controller
     {
         private readonly ICustomerService _customerService;
@@ -20,7 +21,7 @@ namespace VictorVentral.Customers.Api.Controllers
             return Ok(customer);
         }
 
-        [HttpPost("CreateCustomer")] 
+        [HttpPost("CreateCustomer")]
         public async Task<ActionResult> CreateCustomer(CustomerDto customerDto)
         {
             var customer = await _customerService.Add(customerDto);
