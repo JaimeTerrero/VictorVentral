@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using VictorVentral.Customers.Application.Customers.DTOs;
-using VictorVentral.Customers.Application.Customers.Interfaces;
+using VictorVentral.Customers.Application.Customers.Interfaces.Customers;
 using VictorVentral.Customers.Domain.Entities;
 using VictorVentral.Customers.Domain.Interfaces.Repositories.Customers;
 

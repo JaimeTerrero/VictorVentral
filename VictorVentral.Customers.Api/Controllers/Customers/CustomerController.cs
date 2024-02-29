@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using VictorVentral.Customers.Application.Customers.DTOs;
-using VictorVentral.Customers.Application.Customers.Interfaces;
+using VictorVentral.Customers.Application.Customers.Interfaces.Customers;
 
 namespace VictorVentral.Customers.Api.Controllers.Customers
 {
