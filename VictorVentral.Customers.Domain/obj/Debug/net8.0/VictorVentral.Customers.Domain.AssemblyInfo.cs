@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VictorVentral.Customers.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fc6d0580aa24a9fb2d940c1d71025def6e0b957")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15d228d33435b3fc812521c094fe2d4faadf8f77")]
 [assembly: System.Reflection.AssemblyProductAttribute("VictorVentral.Customers.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VictorVentral.Customers.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
